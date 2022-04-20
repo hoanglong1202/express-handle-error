@@ -1,0 +1,11 @@
+## Get user list
+GET http://localhost:3000/v1/users/1234
+
+## Create users
+POST http://localhost:3000/v1/users 
+
+## Update single user
+PATCH http://localhost:3000/v1/users/id
+
+## Delete single user
+DELETE http://localhost:3000/v1/users/id
